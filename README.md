@@ -24,6 +24,10 @@ A simple shortcut to open `~/Downloads` in Finder.
 
 ## History
 
+v0.1.1
+
+    * Cleaning up minor things in existing workflows such as icons, descriptions, etc.
+
 v0.1.0
 
     * Initial commit.
