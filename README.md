@@ -22,6 +22,11 @@ Reveal and re-hide hidden files in Finder. Requires that you close and reopen fi
 
 A simple shortcut to open `~/Downloads` in Finder.
 
+### Lorem Ipsum
+
+Copies one, two, or three paragraphs of Lorem Ipsum to your clipboard.
+TODO: Change this to use an optional argument to generate an arbitary number of paragraphs.
+
 ## History
 
 v0.1.1
